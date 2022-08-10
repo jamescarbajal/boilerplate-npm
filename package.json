@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "James Carbajal",
+	"description": "A practice project for freeCodeCamp's 'Back End Development and APIs' course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
